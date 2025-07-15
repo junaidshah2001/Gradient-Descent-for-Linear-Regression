@@ -32,4 +32,4 @@ Contour plot: Visualizes how w and b move towards the global minimum.
 Surface plot: Shows the cost function’s bowl-shaped surface.
 
 Clone the repository
-https://github.com/your-username/your-repo-name.git
+https://github.com/junaidshah2001/your-repo-name.git
